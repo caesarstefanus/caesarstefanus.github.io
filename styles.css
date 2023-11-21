@@ -1,5 +1,6 @@
 body {
-  background-image: url(https://walli.quosmos.com/files/thumbs/4/3/4/4347c0a1e9e62b48b3692aa0ea5707165f6c0f15/TesselationV__800_800.png);
+  /* background-image: url(https://walli.quosmos.com/files/thumbs/4/3/4/4347c0a1e9e62b48b3692aa0ea5707165f6c0f15/TesselationV__800_800.png); */
+  background-color: black;
   background-position: center;
   background-origin: border-box;
 }
