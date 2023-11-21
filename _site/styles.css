@@ -1,0 +1,39 @@
+body {
+  /* background-image: url(https://walli.quosmos.com/files/thumbs/4/3/4/4347c0a1e9e62b48b3692aa0ea5707165f6c0f15/TesselationV__800_800.png); */
+  background-color: black;
+  background-position: center;
+  background-origin: border-box;
+}
+
+h1 {
+  /*background-color: #333333;*/
+  color: #FFFFFF;
+  font-size: 48px;
+  font-family: 'Montserrat';
+  font-weight: lighter;
+  text-align: center;
+}
+
+h1:after {
+  content: '';
+  display: block;
+  margin: 10px 15% 0 15%;
+  width: 70%;
+  border-bottom: 1px solid #FFF;
+}
+
+h2 {
+  color: #FFFFFF;
+  font-size: 27px;
+}
+
+h3 {
+  color: #FFFFFF;
+  font-size: 24px;
+}
+
+p {
+  color: #FFFFFF;
+  font-size: 18px;
+  font-family: Courier;
+}
